@@ -1,10 +1,10 @@
 
-let adjective = "silly";
-let noun = "banana";
-let place = "kitchen";
+let adjective;
+let noun;
+let place;
 
 // Step 1: Start the song
-let song = "Twinkle, twinkle, " + adjective + " " + noun + ",\n";
+let song = undefined;
 
 // Step 2: Complete the missing lines using +=
 
@@ -15,7 +15,7 @@ song += "";
 song += "";
 
 // Example: Use a variable in a sentence
-song += "Like a diamond in the " + place + ".\n";
+song += "";
 
 // TODO 3: Add "Twinkle, twinkle, silly banana,"
 song += "";

@@ -11,13 +11,7 @@ document.getElementById("playButton").addEventListener("click", function () {
   let place = "";
 
   // Step 2: Create the song
-  let song = `Twinkle, twinkle, ${adjective} ${noun},
-How I wonder what you are!
-
-Like a diamond in the ${place}.
-
-How I wonder what you are!`;
-
+  let song;
   // TODO 3: Complete the two missing lines
   // in the template literal above.
 
